@@ -3,6 +3,8 @@
 AI Data Analyst using LLMs and RAG. This system helps users analyze data using simple questions.
 
 ---
+App Link: https://your-app.streamlit.app  
+GitHub Repo: https://github.com/rayaansyed08-art/ai-data-analyst
 
 ## Overview
 
